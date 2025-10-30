@@ -1,0 +1,1 @@
+# bicep_azure_sqlserver_set_entraonly
