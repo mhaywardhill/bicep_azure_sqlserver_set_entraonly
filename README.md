@@ -2,8 +2,6 @@
 
 I use this project to enable Microsoft Entra authentication only on Azure SQL Server using Bicep. I execute the commands from a Linux terminal on Windows (Ubuntu on WSL).
 
-<p>&nbsp;</p>
-
 ### Login to Azure using the CLI
 
 ```
